@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Comprehension/.idea/Comprehension.iml" filepath="$PROJECT_DIR$/../Comprehension/.idea/Comprehension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../excpetionhandling/.idea/excpetionhandling.iml" filepath="$PROJECT_DIR$/../excpetionhandling/.idea/excpetionhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filehandling/.idea/filehandling.iml" filepath="$PROJECT_DIR$/../filehandling/.idea/filehandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../morning/.idea/morning.iml" filepath="$PROJECT_DIR$/../morning/.idea/morning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice1/.idea/practice1.iml" filepath="$PROJECT_DIR$/../practice1/.idea/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" filepath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled4.iml" filepath="$PROJECT_DIR$/.idea/untitled4.iml" />
+    </modules>
+  </component>
+</project>

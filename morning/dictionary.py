@@ -1,0 +1,11 @@
+dic1={1:10,2:20}
+dic2={3:30}
+dic3={5:50}
+new={}
+new.update(dic1)
+new.update(dic2)
+print(new)
+'''shortcut'''
+empty={}
+empty={**dic1,**dic2,**dic3}
+print(empty)
